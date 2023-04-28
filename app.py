@@ -5,7 +5,8 @@ from millify import millify
 from st_aggrid import AgGrid
 from st_aggrid.grid_options_builder import GridOptionsBuilder
 from transform import parse_video, youtube_metrics
-
+import warnings
+warnings.filterwarnings("ignore")
 st.set_page_config(
     page_title="YouTube Analytics Dashboard"
 )
