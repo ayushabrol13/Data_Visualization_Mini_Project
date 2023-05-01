@@ -4,6 +4,35 @@ This is an interactive dashboard to analyze YouTube channel's performance. This 
 
 ## How to run
 
+Step 1:
+
+```
+git clone <REPO LINK>
+```
+
+Step 2:
+
+```
+cd Data_Visualization_Mini_Project/
+```
+
+Step 3:
+
+```
+pip install-r requirements.txt
+```
+
+Step 4:
+
+```
+streamlit run app.py
+```
+
+Step 5:
+
+```
+Go to http://localhost:<PORT_NUMBER>
+```
 
 ## Github Repo Link
 
