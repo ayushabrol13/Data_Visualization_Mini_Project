@@ -14,3 +14,13 @@ This is an interactive dashboard to analyze YouTube channel's performance. This 
 ![](https://github.com/ayushabrol13/Data_Visualization_Mini_Project/blob/master/plots/TextBlob_Sentiment_Analysis.png)
 
 ## How the Dashboard looks
+
+![](https://github.com/ayushabrol13/Data_Visualization_Mini_Project/blob/master/plots/Screenshot_Page_1.png)
+
+![](https://github.com/ayushabrol13/Data_Visualization_Mini_Project/blob/master/plots/Screenshot_Page_2.png)
+
+![](https://github.com/ayushabrol13/Data_Visualization_Mini_Project/blob/master/plots/Screenshot_Page_3.png)
+
+![](https://github.com/ayushabrol13/Data_Visualization_Mini_Project/blob/master/plots/Screenshot_Page_4.png)
+
+![](https://github.com/ayushabrol13/Data_Visualization_Mini_Project/blob/master/plots/Screenshot_Page_5.png)
